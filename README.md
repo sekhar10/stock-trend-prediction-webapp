@@ -1,2 +1,3 @@
 # stock-trend-prediction-webapp
-Predict the stock price trend of Google for the next one month. The data was downloaded from Yahoo Finance. It contains stock prices of google for the last 5 years. Stacked LSTM architecture is used for predictive modelling.
+This webapp Predicts the stock price trend of various stocks dynamically.Here we have used Streamlit,an open-source Python library, that  makes it easy to build beautiful custom web apps for Machine Learning and Data Science. The data was downloaded from Yahoo Finance. It contains data of almost all of the stocks for the date of its listing. Stacked LSTM architecture is used for predictive modelling.
+<img width="1440" alt="Screenshot 2022-06-30 at 6 10 10 PM" src="https://user-images.githubusercontent.com/79111798/176680688-1c224d1b-d3cc-4ed8-9a4b-472b24e0eeb5.png">
